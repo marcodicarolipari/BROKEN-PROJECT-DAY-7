@@ -1,0 +1,69 @@
+# Node modules
+node_modules/
+npm-debug.log
+npm-debug.log.*
+pnpm-debug.log
+pnpm-debug.log.*
+yarn-error.log
+yarn-error.log.*
+lerna-debug.log
+lerna-debug.log.*
+
+# Angular
+dist/
+.angular/
+angular.json.backup
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode/.ropeproject/
+.history/*
+
+# System files
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+karma.conf.js
+test-results.xml
+
+# Build
+*.log
+out/
+build/
+
+# OS
+*.exe
+*.dll
+*.so
+*.o
+
+# TypeScript
+*.d.ts.map
+*.js.map
+*.tsbuildinfo
+
+# Misc
+.cache/
+.tmp/
+temp/
+*.bak
+*.swp
